@@ -1,10 +1,20 @@
 # Genius-translate-lyrics-userscript
-Shows English or Russian translation next to the lyrics on genius.com
+Shows English or Russian translation next to the lyrics on [genius.com](https://genius.com)
 
 [Powered by Yandex.Translate](http://translate.yandex.com/)
 
 You need a API key for the Yandex Translate API.  
 Register for a free API key for Yandex here: https://translate.yandex.com/developers/keys
+
+
+[**Click here to install**](https://openuserjs.org/install/cuzi/Genius.com_translate_lyrics.user.js) 
+Tested with Firefox/**Greasemonkey** and Chrome/**Tampermonkey**.
+
+Screenshots:  
+![Position of translate button on genius.com](buttons.png)
+
+![Screenshot of genius.com with translated lyrics](screenshot.png)
+
 
 
 **Some of the supported languages:**
