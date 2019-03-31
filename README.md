@@ -3,7 +3,7 @@ Shows English or Russian translation next to the lyrics on [genius.com](https://
 
 [Powered by Yandex.Translate](http://translate.yandex.com/)
 
-You need a API key for the Yandex Translate API.  
+You need an API key for the Yandex Translate API.  
 Register for a free API key for Yandex here: https://translate.yandex.com/developers/keys
 
 
